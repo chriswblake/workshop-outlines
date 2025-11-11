@@ -1,12 +1,12 @@
-<img width="52" alt="github logo" align="left" src="https://github.com/user-attachments/assets/edf42a56-6e3a-4399-8d90-a240e9839ae3">
-
-> [!WARNING]
-> These are just random notes for right now.
+<img width="52" alt="github logo" align="left" src="https://github.com/user-attachments/assets/edf42a56-6e3a-4399-8d90-a240e9839ae3" />
 
 **GitHub Learn**  
 Preparing for the Foundations Certification
 
 ---
+
+> [!WARNING]
+> These are just random notes for right now.
 
 **Event:** Part 1/3 - Intro to version control and file management
 **Date:** 10-Oct-2025  

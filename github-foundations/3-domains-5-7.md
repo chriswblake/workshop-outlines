@@ -1,4 +1,4 @@
-<img width="52" alt="github logo" align="left" src="https://github.com/user-attachments/assets/edf42a56-6e3a-4399-8d90-a240e9839ae3">
+<img width="52" alt="github logo" align="left" src="https://github.com/user-attachments/assets/edf42a56-6e3a-4399-8d90-a240e9839ae3" />
 
 **GitHub Learn**  
 Preparing for the Foundations Certification
